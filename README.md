@@ -1,0 +1,1 @@
+In this Data Cleaning Project, I learned how to create new tables in order to protect the integrity of the original data. Through the process of data cleaning, I removed duplicates, standardized the data, addressed null and blank values, and removed any columns that were not essential.☆
